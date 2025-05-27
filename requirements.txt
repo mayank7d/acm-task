@@ -1,0 +1,8 @@
+streamlit
+langchain
+huggingface_hub
+transformers
+torch
+sentence-transformers
+accelerate
+pydantic
